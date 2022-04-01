@@ -20,7 +20,7 @@ jupyter-core==4.6.3
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-numpy==1.19.1
+numpy==1.21.0
 pandas==1.1.1
 parso==0.7.1
 pexpect==4.8.0
